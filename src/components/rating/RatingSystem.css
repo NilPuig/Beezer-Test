@@ -1,0 +1,15 @@
+
+
+.star-fill {
+	cursor: pointer;
+	fill: black;
+}
+
+.star-empty {
+	cursor: pointer;
+	fill: #e3dada;
+}
+
+.stars {
+	display: flex;
+}

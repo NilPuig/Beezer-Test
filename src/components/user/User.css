@@ -1,0 +1,58 @@
+
+.user-box{
+	padding-left: 1.2em;
+	padding-right: 1.4em;
+	font-family: sans-serif;
+	font-weight: lighter;
+	background-color: #fff;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+	box-shadow: 0px 1px 7px #aba6a6;
+}
+
+.user-details{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 1em;
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+
+.user{
+	font-weight:bold;
+}
+
+.account {
+	margin-top: 12px;
+	font-size: 0.85em;
+	margin-bottom: 0.7em;
+}
+
+.separation-line {
+	margin-top : 1.3em;
+	margin-bottom: 1.6em;
+	height: 0.07em;
+	background-color: #aba6a6;
+}
+
+.app-list {
+	margin-bottom: 1em;
+}
+
+.app-list-title {
+	margin-bottom: 0.71rem;
+	font-size: 1em;
+	font-weight: lighter;
+}
+
+.app-list-item  {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-left: 0.9em;
+	font-weight: lighter;
+	font-size: 0.85em;
+}
